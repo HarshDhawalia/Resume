@@ -58,6 +58,7 @@ h3{
 
 .skills{
     margin: auto;
+    background-color: #C9EEFF;
 }
 
 .skill-row:hover{
@@ -92,7 +93,7 @@ h3{
 }
 
 .port{
-    background-color: #3A98B9;
+    background-color: #073a4d;
     padding: 20px;
 }
 
