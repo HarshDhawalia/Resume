@@ -54,11 +54,14 @@ h3{
     width: 50%;
 }
 
+.Stars{
+    text-align: center;
+    background-color: #C9EEFF;
 
+}
 
 .skills{
     margin: auto;
-    background-color: #C9EEFF;
 }
 
 .skill-row:hover{
