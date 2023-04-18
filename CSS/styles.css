@@ -101,7 +101,7 @@ h3{
 }
 
 .linkup:hover{
-    background-color: chartreuse;
+    background-color: rgb(166, 210, 216);
 }
 
 .bottom{
@@ -115,7 +115,7 @@ h3{
 }
 
 .footer-link:hover{
-    background-color: chartreuse;
+    background-color: rgb(0, 162, 255);
     padding: 50px;
 }
 
